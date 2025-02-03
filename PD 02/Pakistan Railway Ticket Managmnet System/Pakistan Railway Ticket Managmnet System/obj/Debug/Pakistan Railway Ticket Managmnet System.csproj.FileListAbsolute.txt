@@ -1,0 +1,7 @@
+E:\University\Semester 2\OOP lab\Project\Pakistan Railway Ticket Managmnet System\Pakistan Railway Ticket Managmnet System\bin\Debug\Pakistan Railway Ticket Managmnet System.exe.config
+E:\University\Semester 2\OOP lab\Project\Pakistan Railway Ticket Managmnet System\Pakistan Railway Ticket Managmnet System\bin\Debug\Pakistan Railway Ticket Managmnet System.exe
+E:\University\Semester 2\OOP lab\Project\Pakistan Railway Ticket Managmnet System\Pakistan Railway Ticket Managmnet System\bin\Debug\Pakistan Railway Ticket Managmnet System.pdb
+E:\University\Semester 2\OOP lab\Project\Pakistan Railway Ticket Managmnet System\Pakistan Railway Ticket Managmnet System\obj\Debug\Pakistan Railway Ticket Managmnet System.csproj.AssemblyReference.cache
+E:\University\Semester 2\OOP lab\Project\Pakistan Railway Ticket Managmnet System\Pakistan Railway Ticket Managmnet System\obj\Debug\Pakistan Railway Ticket Managmnet System.csproj.CoreCompileInputs.cache
+E:\University\Semester 2\OOP lab\Project\Pakistan Railway Ticket Managmnet System\Pakistan Railway Ticket Managmnet System\obj\Debug\Pakistan Railway Ticket Managmnet System.exe
+E:\University\Semester 2\OOP lab\Project\Pakistan Railway Ticket Managmnet System\Pakistan Railway Ticket Managmnet System\obj\Debug\Pakistan Railway Ticket Managmnet System.pdb

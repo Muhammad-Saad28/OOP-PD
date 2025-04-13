@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 08\\task1\\task 01\\task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\student.cs",
+              "RelativeDocumentMoniker": "TASK 01\\UI\\student.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\student.cs",
+              "RelativeToolTip": "TASK 01\\UI\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:57:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "staff.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\staff.cs",
+              "RelativeDocumentMoniker": "TASK 01\\UI\\staff.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\staff.cs",
+              "RelativeToolTip": "TASK 01\\UI\\staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:57:16.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\person.cs",
+              "RelativeDocumentMoniker": "TASK 01\\UI\\person.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\person.cs",
+              "RelativeToolTip": "TASK 01\\UI\\person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:57:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "person.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\person.cs",
+              "RelativeDocumentMoniker": "TASK 01\\BL\\person.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\person.cs",
+              "RelativeToolTip": "TASK 01\\BL\\person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:57:03.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\student.cs",
+              "RelativeDocumentMoniker": "TASK 01\\BL\\student.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\student.cs",
+              "RelativeToolTip": "TASK 01\\BL\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:56:55.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staff.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\staff.cs",
+              "RelativeDocumentMoniker": "TASK 01\\BL\\staff.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\staff.cs",
+              "RelativeToolTip": "TASK 01\\BL\\staff.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:56:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\Program.cs",
+              "RelativeDocumentMoniker": "TASK 01\\Program.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\Program.cs",
+              "RelativeToolTip": "TASK 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:54:13.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\task01\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|solutionrelative:task01\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|solutionrelative:task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\task01\\gradedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|solutionrelative:task01\\gradedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 09\\problem1\\1.1\\task01\\absolutegrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|solutionrelative:task01\\absolutegrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\task01\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6A24A7-C202-4E96-B9F4-0E48CB95265E}|Task01\\Task01.csproj|solutionrelative:task01\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\Course.cs",
+              "RelativeDocumentMoniker": "Task01\\Course.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\Course.cs",
+              "RelativeToolTip": "Task01\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:11:32.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\Project.cs",
+              "RelativeDocumentMoniker": "Task01\\Project.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\Project.cs",
+              "RelativeToolTip": "Task01\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:08:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradedCourse.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\GradedCourse.cs",
+              "RelativeDocumentMoniker": "Task01\\GradedCourse.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\GradedCourse.cs",
+              "RelativeToolTip": "Task01\\GradedCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:07:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbsoluteGrade.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\AbsoluteGrade.cs",
+              "RelativeDocumentMoniker": "Task01\\AbsoluteGrade.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\AbsoluteGrade.cs",
+              "RelativeToolTip": "Task01\\AbsoluteGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:07:01.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\Program.cs",
+              "RelativeDocumentMoniker": "Task01\\Program.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Problem1\\1.1\\Task01\\Program.cs",
+              "RelativeToolTip": "Task01\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:02:20.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

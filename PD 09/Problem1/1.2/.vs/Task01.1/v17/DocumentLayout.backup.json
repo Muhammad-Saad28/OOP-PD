@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 09\\task01.1\\task01.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|solutionrelative:task01.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 09\\task01.1\\task01.1\\absolutegrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|solutionrelative:task01.1\\absolutegrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 09\\task01.1\\task01.1\\gradedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|solutionrelative:task01.1\\gradedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 09\\task01.1\\task01.1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|solutionrelative:task01.1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 09\\task01.1\\task01.1\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155850F3-1869-4AAB-8996-ECDC3E4F7D45}|Task01.1\\Task01.1.csproj|solutionrelative:task01.1\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradedCourse.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\GradedCourse.cs",
+              "RelativeDocumentMoniker": "Task01.1\\GradedCourse.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\GradedCourse.cs",
+              "RelativeToolTip": "Task01.1\\GradedCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:19:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbsoluteGrade.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\AbsoluteGrade.cs",
+              "RelativeDocumentMoniker": "Task01.1\\AbsoluteGrade.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\AbsoluteGrade.cs",
+              "RelativeToolTip": "Task01.1\\AbsoluteGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:14:56.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\Course.cs",
+              "RelativeDocumentMoniker": "Task01.1\\Course.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\Course.cs",
+              "RelativeToolTip": "Task01.1\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:19:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\Project.cs",
+              "RelativeDocumentMoniker": "Task01.1\\Project.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\Project.cs",
+              "RelativeToolTip": "Task01.1\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:14:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\Program.cs",
+              "RelativeDocumentMoniker": "Task01.1\\Program.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 09\\Task01.1\\Task01.1\\Program.cs",
+              "RelativeToolTip": "Task01.1\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:10:17.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

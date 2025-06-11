@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 08\\task1\\task 01\\task 01\\dl\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\dl\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 08\\task1\\task 01\\task 01\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|e:\\university\\semester 2\\oop lab\\pd\\pd 08\\task1\\task 01\\task 01\\dl\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\dl\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C741CD68-E244-4EC1-AB71-63B004CA2DB4}|TASK 01\\TASK 01.csproj|solutionrelative:task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\DL\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "TASK 01\\DL\\PersonRepository.cs",
-              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\DL\\PersonRepository.cs",
-              "RelativeToolTip": "TASK 01\\DL\\PersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T14:00:25.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\DL\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "TASK 01\\DL\\IPersonRepository.cs",
-              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\DL\\IPersonRepository.cs",
-              "RelativeToolTip": "TASK 01\\DL\\IPersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T13:59:50.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "student.cs",
               "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\student.cs",
               "RelativeDocumentMoniker": "TASK 01\\UI\\student.cs",
@@ -84,12 +50,11 @@
               "RelativeToolTip": "TASK 01\\UI\\student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T05:57:22.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T05:57:22.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "staff.cs",
               "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\staff.cs",
               "RelativeDocumentMoniker": "TASK 01\\UI\\staff.cs",
@@ -97,12 +62,11 @@
               "RelativeToolTip": "TASK 01\\UI\\staff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T05:57:16.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T05:57:16.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "person.cs",
               "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\UI\\person.cs",
               "RelativeDocumentMoniker": "TASK 01\\UI\\person.cs",
@@ -115,20 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "person.cs",
               "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\person.cs",
               "RelativeDocumentMoniker": "TASK 01\\BL\\person.cs",
               "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\person.cs",
               "RelativeToolTip": "TASK 01\\BL\\person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T05:57:03.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "student.cs",
               "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\student.cs",
               "RelativeDocumentMoniker": "TASK 01\\BL\\student.cs",
@@ -143,27 +107,26 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "staff.cs",
-              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\staff.cs",
-              "RelativeDocumentMoniker": "TASK 01\\BL\\staff.cs",
-              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\staff.cs",
-              "RelativeToolTip": "TASK 01\\BL\\staff.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\Staff.cs",
+              "RelativeDocumentMoniker": "TASK 01\\BL\\Staff.cs",
+              "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\BL\\Staff.cs",
+              "RelativeToolTip": "TASK 01\\BL\\Staff.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T05:56:49.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\Program.cs",
               "RelativeDocumentMoniker": "TASK 01\\Program.cs",
               "ToolTip": "E:\\University\\Semester 2\\OOP lab\\PD\\PD 08\\Task1\\TASK 01\\TASK 01\\Program.cs",
               "RelativeToolTip": "TASK 01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T05:54:13.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T05:54:13.661Z"
             }
           ]
         }

@@ -1,0 +1,14 @@
+E:\OOP\Week4\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+E:\OOP\Week4\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\OOP\Week4\Task3\Task3\bin\Debug\Task3.exe.config
+E:\OOP\Week4\Task3\Task3\bin\Debug\Task3.exe
+E:\OOP\Week4\Task3\Task3\bin\Debug\Task3.pdb
+E:\OOP\Week4\Task3\Task3\obj\Debug\Task3.exe
+E:\OOP\Week4\Task3\Task3\obj\Debug\Task3.pdb
+E:\OOP PD\Week4\Task3\Task3\bin\Debug\Task3.exe.config
+E:\OOP PD\Week4\Task3\Task3\bin\Debug\Task3.exe
+E:\OOP PD\Week4\Task3\Task3\bin\Debug\Task3.pdb
+E:\OOP PD\Week4\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+E:\OOP PD\Week4\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\OOP PD\Week4\Task3\Task3\obj\Debug\Task3.exe
+E:\OOP PD\Week4\Task3\Task3\obj\Debug\Task3.pdb

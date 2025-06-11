@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP PD\\Week4\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6099DB76-98FB-4AD5-B8CB-4EB68E440EB8}|Task1\\Task1.csproj|e:\\oop pd\\week4\\task1\\task1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6099DB76-98FB-4AD5-B8CB-4EB68E440EB8}|Task1\\Task1.csproj|solutionrelative:task1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6099DB76-98FB-4AD5-B8CB-4EB68E440EB8}|Task1\\Task1.csproj|e:\\oop pd\\week4\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6099DB76-98FB-4AD5-B8CB-4EB68E440EB8}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "E:\\OOP PD\\Week4\\Task1\\Task1\\Ship.cs",
+              "RelativeDocumentMoniker": "Task1\\Ship.cs",
+              "ToolTip": "E:\\OOP PD\\Week4\\Task1\\Task1\\Ship.cs",
+              "RelativeToolTip": "Task1\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:21:44.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OOP PD\\Week4\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "E:\\OOP PD\\Week4\\Task1\\Task1\\Program.cs*",
+              "RelativeToolTip": "Task1\\Program.cs*",
+              "ViewState": "AgIAAFMAAAAAb2ZmZuYrwEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:20:56.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

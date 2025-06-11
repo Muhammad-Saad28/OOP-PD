@@ -1,0 +1,7 @@
+E:\University\Semester 2\OOP lab\Project\Ninja Hunt\Ninja Hunt\bin\Debug\Ninja Hunt.exe.config
+E:\University\Semester 2\OOP lab\Project\Ninja Hunt\Ninja Hunt\bin\Debug\Ninja Hunt.exe
+E:\University\Semester 2\OOP lab\Project\Ninja Hunt\Ninja Hunt\bin\Debug\Ninja Hunt.pdb
+E:\University\Semester 2\OOP lab\Project\Ninja Hunt\Ninja Hunt\obj\Debug\Ninja Hunt.csproj.AssemblyReference.cache
+E:\University\Semester 2\OOP lab\Project\Ninja Hunt\Ninja Hunt\obj\Debug\Ninja Hunt.csproj.CoreCompileInputs.cache
+E:\University\Semester 2\OOP lab\Project\Ninja Hunt\Ninja Hunt\obj\Debug\Ninja Hunt.exe
+E:\University\Semester 2\OOP lab\Project\Ninja Hunt\Ninja Hunt\obj\Debug\Ninja Hunt.pdb
